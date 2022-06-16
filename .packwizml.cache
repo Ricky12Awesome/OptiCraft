@@ -1,72 +1,6 @@
 {
-  "1IjD5062": {
-    "hash": "ac4deeead3e1c4a3d54759f5d27c514f34f9115f",
-    "project": {
-      "Modrinth": {
-        "id": "1IjD5062",
-        "slug": "continuity",
-        "title": "Continuity",
-        "description": "A Fabric mod that allows for efficient connected textures"
-      }
-    }
-  },
-  "LQ3K71Q1": {
-    "hash": "8d264374dc08df87777fb51b94c781476c315bb5",
-    "project": {
-      "Modrinth": {
-        "id": "LQ3K71Q1",
-        "slug": "dynamic-fps",
-        "title": "Dynamic FPS",
-        "description": "Improve performance when Minecraft is in the background."
-      }
-    }
-  },
-  "QwxR6Gcd": {
-    "hash": "79bceb98408739c23bc106ec38d361c320a692fc",
-    "project": {
-      "Modrinth": {
-        "id": "QwxR6Gcd",
-        "slug": "debugify",
-        "title": "Debugify",
-        "description": "Fixes Minecraft bugs found on the bug tracker"
-      }
-    }
-  },
-  "yBW8D80W": {
-    "hash": "0f2b1a29beb9521e11046f76674d78ddc86e1371",
-    "project": {
-      "Modrinth": {
-        "id": "yBW8D80W",
-        "slug": "lambdynamiclights",
-        "title": "LambDynamicLights",
-        "description": "A dynamic lights mod for Fabric."
-      }
-    }
-  },
-  "hvFnDODi": {
-    "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
-    "project": {
-      "Modrinth": {
-        "id": "hvFnDODi",
-        "slug": "lazydfu",
-        "title": "LazyDFU",
-        "description": "Makes the game boot faster by deferring non-essential initialization"
-      }
-    }
-  },
-  "Bh37bMuy": {
-    "hash": "430337cd1d3d6fdf7b3910926b80cc204a082661",
-    "project": {
-      "Modrinth": {
-        "id": "Bh37bMuy",
-        "slug": "reeses-sodium-options",
-        "title": "Reese's Sodium Options",
-        "description": "Alternative Options Menu for Sodium"
-      }
-    }
-  },
   "Orvt0mRa": {
-    "hash": "7051b35f4de5e84b7c77e33743c3ad51a76ad50d",
+    "hash": "97ac14960a972daa70803ffd0cfc4ed1aa9f7276",
     "project": {
       "Modrinth": {
         "id": "Orvt0mRa",
@@ -76,58 +10,36 @@
       }
     }
   },
-  "otVJckYQ": {
-    "hash": "882be93e426bd8747e08c7acadcc5fb04e6d8195",
+  "BVzZfTc1": {
+    "hash": "5954de581281f46b0e8b5e60fb84eecd20dcb42c",
     "project": {
       "Modrinth": {
-        "id": "otVJckYQ",
-        "slug": "cit-resewn",
-        "title": "CIT Resewn",
-        "description": "Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)"
+        "id": "BVzZfTc1",
+        "slug": "entitytexturefeatures",
+        "title": "Entity Texture Features [Fabric]",
+        "description": "Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric"
       }
     }
   },
-  "399798": {
-    "hash": "2aa679f2dc887e2ce45d55fffe67af36250b4841",
+  "415758": {
+    "hash": "8414cbce145a5f48102e6cc811dfd1459afe44f3",
     "project": {
       "CurseForge": {
-        "id": 399798,
-        "slug": "item-model-fix",
-        "name": "Item Model Fix (Fabric)",
-        "summary": "Fixes gaps in default item models"
+        "id": 415758,
+        "slug": "smooth-boot",
+        "name": "Smooth Boot (Fabric)",
+        "summary": "Tweak Java thread settings and prevent Minecraft from lagging your computer when loading up."
       }
     }
   },
-  "uXXizFIs": {
-    "hash": "14ab2f560fce8f20f5af07129dd71130ab9bb03f",
+  "89Wsn8GD": {
+    "hash": "042f51d7afce35260d123f6c35549f18d7cff6cb",
     "project": {
       "Modrinth": {
-        "id": "uXXizFIs",
-        "slug": "ferrite-core",
-        "title": "FerriteCore",
-        "description": "Memory usage optimizations"
-      }
-    }
-  },
-  "H8CaAYZC": {
-    "hash": "6292c91aa726edd2f8178ae002d040ae54aac0aa",
-    "project": {
-      "Modrinth": {
-        "id": "H8CaAYZC",
-        "slug": "starlight",
-        "title": "Starlight (Fabric)",
-        "description": "Rewrites the light engine to fix lighting performance and lighting errors"
-      }
-    }
-  },
-  "3IuO68q1": {
-    "hash": "24085e8f288967e41a964363c3297ffbdb0e6bcb",
-    "project": {
-      "Modrinth": {
-        "id": "3IuO68q1",
-        "slug": "puzzle",
-        "title": "Puzzle",
-        "description": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives."
+        "id": "89Wsn8GD",
+        "slug": "capes",
+        "title": "Capes",
+        "description": "Lets you use capes from OptiFine, LabyMod and other cape mods"
       }
     }
   },
@@ -142,6 +54,17 @@
       }
     }
   },
+  "mOgUt4GM": {
+    "hash": "04be7e499bf67be0fea40d15f17a9ec47f21c309",
+    "project": {
+      "Modrinth": {
+        "id": "mOgUt4GM",
+        "slug": "modmenu",
+        "title": "Mod Menu",
+        "description": "Adds a mod menu to view the list of mods you have installed."
+      }
+    }
+  },
   "YOQCucah": {
     "hash": "96c943ee9282945877fe85e7c474ccddbaca0401",
     "project": {
@@ -150,6 +73,28 @@
         "slug": "cem",
         "title": "Custom Entity Models",
         "description": "Custom Entity Models suport on Fabric"
+      }
+    }
+  },
+  "LQ3K71Q1": {
+    "hash": "8d264374dc08df87777fb51b94c781476c315bb5",
+    "project": {
+      "Modrinth": {
+        "id": "LQ3K71Q1",
+        "slug": "dynamic-fps",
+        "title": "Dynamic FPS",
+        "description": "Improve performance when Minecraft is in the background."
+      }
+    }
+  },
+  "otVJckYQ": {
+    "hash": "882be93e426bd8747e08c7acadcc5fb04e6d8195",
+    "project": {
+      "Modrinth": {
+        "id": "otVJckYQ",
+        "slug": "cit-resewn",
+        "title": "CIT Resewn",
+        "description": "Re-implements MCPatcher's CIT (custom item textures from optifine resource packs)"
       }
     }
   },
@@ -164,25 +109,14 @@
       }
     }
   },
-  "yM94ont6": {
-    "hash": "3e45edbb8dc4aed296ad4997c1cf1c4c1066292d",
+  "uXXizFIs": {
+    "hash": "14ab2f560fce8f20f5af07129dd71130ab9bb03f",
     "project": {
       "Modrinth": {
-        "id": "yM94ont6",
-        "slug": "notenoughcrashes",
-        "title": "Not Enough Crashes",
-        "description": "When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant."
-      }
-    }
-  },
-  "mOgUt4GM": {
-    "hash": "04be7e499bf67be0fea40d15f17a9ec47f21c309",
-    "project": {
-      "Modrinth": {
-        "id": "mOgUt4GM",
-        "slug": "modmenu",
-        "title": "Mod Menu",
-        "description": "Adds a mod menu to view the list of mods you have installed."
+        "id": "uXXizFIs",
+        "slug": "ferrite-core",
+        "title": "FerriteCore",
+        "description": "Memory usage optimizations"
       }
     }
   },
@@ -197,28 +131,6 @@
       }
     }
   },
-  "89Wsn8GD": {
-    "hash": "3e7f52be0bb1eb98c9dd5dd568633131d32a2ee3",
-    "project": {
-      "Modrinth": {
-        "id": "89Wsn8GD",
-        "slug": "capes",
-        "title": "Capes",
-        "description": "Lets you use capes from OptiFine, LabyMod and other cape mods"
-      }
-    }
-  },
-  "ZfQ3kTvR": {
-    "hash": "c6ecf810365ef16714c6577caba86bd3dfdfa782",
-    "project": {
-      "Modrinth": {
-        "id": "ZfQ3kTvR",
-        "slug": "dashloader",
-        "title": "DashLoader",
-        "description": "Launch at the speed of light."
-      }
-    }
-  },
   "qvIfYCYJ": {
     "hash": "3cbaf7ee8065e2e8110d3fb3dab4a74148d09559",
     "project": {
@@ -227,72 +139,6 @@
         "slug": "qsl",
         "title": "Quilted Fabric API / Quilt Standard Libraries",
         "description": "The standard libraries of the Quilt ecosystem. Essential for your modding experience on Quilt!"
-      }
-    }
-  },
-  "2ecVyZ49": {
-    "hash": "09852cf9267f9f40796552571cad7021ff3d3d9e",
-    "project": {
-      "Modrinth": {
-        "id": "2ecVyZ49",
-        "slug": "ksyxis",
-        "title": "Ksyxis",
-        "description": "Speed up the loading of your world."
-      }
-    }
-  },
-  "JuksLGBQ": {
-    "hash": "9b07bcd54c2d5974c813d2db5e595efd5836cebd",
-    "project": {
-      "Modrinth": {
-        "id": "JuksLGBQ",
-        "slug": "optigui",
-        "title": "OptiGUI",
-        "description": "A drop-in replacement for OptiFine custom GUIs"
-      }
-    }
-  },
-  "513840": {
-    "hash": "c24a170d663445455e3d8851c2dd5134499f336c",
-    "project": {
-      "CurseForge": {
-        "id": 513840,
-        "slug": "fastopenlinksandfolders",
-        "name": "FastOpenLinksAndFolders",
-        "summary": "A lightweight mod to make the game not block when opening a chat link, a screenshot or the resourcepacks or datapacks folder."
-      }
-    }
-  },
-  "fQEb0iXm": {
-    "hash": "4ef667c6e053dd22e3e8cfa6299a75069af858ad",
-    "project": {
-      "Modrinth": {
-        "id": "fQEb0iXm",
-        "slug": "krypton",
-        "title": "Krypton",
-        "description": "A mod to optimize the Minecraft networking stack"
-      }
-    }
-  },
-  "PRN43VSY": {
-    "hash": "88814223cfa1aa19745529d852d545e5273f58d3",
-    "project": {
-      "Modrinth": {
-        "id": "PRN43VSY",
-        "slug": "animatica",
-        "title": "Animatica",
-        "description": "A mod implementing the OptiFine/MCPatcher animated texture format"
-      }
-    }
-  },
-  "PtjYWJkn": {
-    "hash": "56e146060fb212f98a9295283a06c38ba182d063",
-    "project": {
-      "Modrinth": {
-        "id": "PtjYWJkn",
-        "slug": "sodium-extra",
-        "title": "Sodium Extra",
-        "description": "Features that shouldn't be in Sodium."
       }
     }
   },
@@ -307,17 +153,6 @@
       }
     }
   },
-  "V4IQxkZC": {
-    "hash": "7524e70ccf9968d14aadbeca03cd0ec226c04054",
-    "project": {
-      "Modrinth": {
-        "id": "V4IQxkZC",
-        "slug": "colormatic",
-        "title": "Colormatic",
-        "description": "Enables resource packs to add and change block and biome colors."
-      }
-    }
-  },
   "w7ThoJFB": {
     "hash": "09a943bb5b302d71ac78502e3fcea59166cf4697",
     "project": {
@@ -326,28 +161,6 @@
         "slug": "zoomify",
         "title": "Zoomify",
         "description": "A zoom mod with infinite customizability."
-      }
-    }
-  },
-  "3qsfQtE9": {
-    "hash": "229c504dd8d48527f4484d3dba569baa63b03fe1",
-    "project": {
-      "Modrinth": {
-        "id": "3qsfQtE9",
-        "slug": "fabrishot",
-        "title": "Fabrishot",
-        "description": "Take insanely large screenshots because why not"
-      }
-    }
-  },
-  "BVzZfTc1": {
-    "hash": "da67b45c084cec3f7935703ec83bb1fbbd8960b0",
-    "project": {
-      "Modrinth": {
-        "id": "BVzZfTc1",
-        "slug": "entitytexturefeatures",
-        "title": "Entity Texture Features [Fabric]",
-        "description": "Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric"
       }
     }
   },
@@ -384,25 +197,36 @@
       }
     }
   },
-  "aXf2OSFU": {
-    "hash": "3607c558bfe465c4bdde3d1599a2748e315b41f8",
+  "YL57xq9U": {
+    "hash": "499a3e1b13eafb0eb4dceee1152c84b23211e0d5",
     "project": {
       "Modrinth": {
-        "id": "aXf2OSFU",
-        "slug": "ok-zoomer",
-        "title": "Ok Zoomer",
-        "description": "Adds a highly-configurable zoom key for Fabric. The zoom is yours!"
+        "id": "YL57xq9U",
+        "slug": "iris",
+        "title": "Iris Shaders",
+        "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs"
       }
     }
   },
-  "415758": {
-    "hash": "8414cbce145a5f48102e6cc811dfd1459afe44f3",
+  "yM94ont6": {
+    "hash": "3e45edbb8dc4aed296ad4997c1cf1c4c1066292d",
     "project": {
-      "CurseForge": {
-        "id": 415758,
-        "slug": "smooth-boot",
-        "name": "Smooth Boot (Fabric)",
-        "summary": "Tweak Java thread settings and prevent Minecraft from lagging your computer when loading up."
+      "Modrinth": {
+        "id": "yM94ont6",
+        "slug": "notenoughcrashes",
+        "title": "Not Enough Crashes",
+        "description": "When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant."
+      }
+    }
+  },
+  "3qsfQtE9": {
+    "hash": "229c504dd8d48527f4484d3dba569baa63b03fe1",
+    "project": {
+      "Modrinth": {
+        "id": "3qsfQtE9",
+        "slug": "fabrishot",
+        "title": "Fabrishot",
+        "description": "Take insanely large screenshots because why not"
       }
     }
   },
@@ -417,14 +241,201 @@
       }
     }
   },
-  "YL57xq9U": {
-    "hash": "499a3e1b13eafb0eb4dceee1152c84b23211e0d5",
+  "fQEb0iXm": {
+    "hash": "4ef667c6e053dd22e3e8cfa6299a75069af858ad",
     "project": {
       "Modrinth": {
-        "id": "YL57xq9U",
-        "slug": "iris",
-        "title": "Iris Shaders",
-        "description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs"
+        "id": "fQEb0iXm",
+        "slug": "krypton",
+        "title": "Krypton",
+        "description": "A mod to optimize the Minecraft networking stack"
+      }
+    }
+  },
+  "PRN43VSY": {
+    "hash": "88814223cfa1aa19745529d852d545e5273f58d3",
+    "project": {
+      "Modrinth": {
+        "id": "PRN43VSY",
+        "slug": "animatica",
+        "title": "Animatica",
+        "description": "A mod implementing the OptiFine/MCPatcher animated texture format"
+      }
+    }
+  },
+  "ZfQ3kTvR": {
+    "hash": "c6ecf810365ef16714c6577caba86bd3dfdfa782",
+    "project": {
+      "Modrinth": {
+        "id": "ZfQ3kTvR",
+        "slug": "dashloader",
+        "title": "DashLoader",
+        "description": "Launch at the speed of light."
+      }
+    }
+  },
+  "Bh37bMuy": {
+    "hash": "430337cd1d3d6fdf7b3910926b80cc204a082661",
+    "project": {
+      "Modrinth": {
+        "id": "Bh37bMuy",
+        "slug": "reeses-sodium-options",
+        "title": "Reese's Sodium Options",
+        "description": "Alternative Options Menu for Sodium"
+      }
+    }
+  },
+  "3IuO68q1": {
+    "hash": "24085e8f288967e41a964363c3297ffbdb0e6bcb",
+    "project": {
+      "Modrinth": {
+        "id": "3IuO68q1",
+        "slug": "puzzle",
+        "title": "Puzzle",
+        "description": "Adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives."
+      }
+    }
+  },
+  "2ecVyZ49": {
+    "hash": "09852cf9267f9f40796552571cad7021ff3d3d9e",
+    "project": {
+      "Modrinth": {
+        "id": "2ecVyZ49",
+        "slug": "ksyxis",
+        "title": "Ksyxis",
+        "description": "Speed up the loading of your world."
+      }
+    }
+  },
+  "OVuFYfre": {
+    "hash": "d4a4ce2f0249cd636eb3f820225082645885bd74",
+    "project": {
+      "Modrinth": {
+        "id": "OVuFYfre",
+        "slug": "ebe",
+        "title": "Enhanced Block Entities",
+        "description": "Reduce FPS lag with block entities, as well as customize them with resource packs"
+      }
+    }
+  },
+  "yBW8D80W": {
+    "hash": "0f2b1a29beb9521e11046f76674d78ddc86e1371",
+    "project": {
+      "Modrinth": {
+        "id": "yBW8D80W",
+        "slug": "lambdynamiclights",
+        "title": "LambDynamicLights",
+        "description": "A dynamic lights mod for Fabric."
+      }
+    }
+  },
+  "513840": {
+    "hash": "c24a170d663445455e3d8851c2dd5134499f336c",
+    "project": {
+      "CurseForge": {
+        "id": 513840,
+        "slug": "fastopenlinksandfolders",
+        "name": "FastOpenLinksAndFolders",
+        "summary": "A lightweight mod to make the game not block when opening a chat link, a screenshot or the resourcepacks or datapacks folder."
+      }
+    }
+  },
+  "hvFnDODi": {
+    "hash": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
+    "project": {
+      "Modrinth": {
+        "id": "hvFnDODi",
+        "slug": "lazydfu",
+        "title": "LazyDFU",
+        "description": "Makes the game boot faster by deferring non-essential initialization"
+      }
+    }
+  },
+  "399798": {
+    "hash": "2aa679f2dc887e2ce45d55fffe67af36250b4841",
+    "project": {
+      "CurseForge": {
+        "id": 399798,
+        "slug": "item-model-fix",
+        "name": "Item Model Fix (Fabric)",
+        "summary": "Fixes gaps in default item models"
+      }
+    }
+  },
+  "JuksLGBQ": {
+    "hash": "9b07bcd54c2d5974c813d2db5e595efd5836cebd",
+    "project": {
+      "Modrinth": {
+        "id": "JuksLGBQ",
+        "slug": "optigui",
+        "title": "OptiGUI",
+        "description": "A drop-in replacement for OptiFine custom GUIs"
+      }
+    }
+  },
+  "QwxR6Gcd": {
+    "hash": "0471b1941c7c2113b5bbe263be41348ecb4f8741",
+    "project": {
+      "Modrinth": {
+        "id": "QwxR6Gcd",
+        "slug": "debugify",
+        "title": "Debugify",
+        "description": "Fixes Minecraft bugs found on the bug tracker"
+      }
+    }
+  },
+  "H8CaAYZC": {
+    "hash": "6292c91aa726edd2f8178ae002d040ae54aac0aa",
+    "project": {
+      "Modrinth": {
+        "id": "H8CaAYZC",
+        "slug": "starlight",
+        "title": "Starlight (Fabric)",
+        "description": "Rewrites the light engine to fix lighting performance and lighting errors"
+      }
+    }
+  },
+  "V4IQxkZC": {
+    "hash": "7524e70ccf9968d14aadbeca03cd0ec226c04054",
+    "project": {
+      "Modrinth": {
+        "id": "V4IQxkZC",
+        "slug": "colormatic",
+        "title": "Colormatic",
+        "description": "Enables resource packs to add and change block and biome colors."
+      }
+    }
+  },
+  "aXf2OSFU": {
+    "hash": "3607c558bfe465c4bdde3d1599a2748e315b41f8",
+    "project": {
+      "Modrinth": {
+        "id": "aXf2OSFU",
+        "slug": "ok-zoomer",
+        "title": "Ok Zoomer",
+        "description": "Adds a highly-configurable zoom key for Fabric. The zoom is yours!"
+      }
+    }
+  },
+  "PtjYWJkn": {
+    "hash": "56e146060fb212f98a9295283a06c38ba182d063",
+    "project": {
+      "Modrinth": {
+        "id": "PtjYWJkn",
+        "slug": "sodium-extra",
+        "title": "Sodium Extra",
+        "description": "Features that shouldn't be in Sodium."
+      }
+    }
+  },
+  "1IjD5062": {
+    "hash": "ac4deeead3e1c4a3d54759f5d27c514f34f9115f",
+    "project": {
+      "Modrinth": {
+        "id": "1IjD5062",
+        "slug": "continuity",
+        "title": "Continuity",
+        "description": "A Fabric mod that allows for efficient connected textures"
       }
     }
   },
@@ -435,6 +446,11 @@
         "id": "gvQqBUqZ",
         "slug": "lithium",
         "title": "Lithium",
+        "description": "No-compromises game logic/server optimization mod"
+      }
+    }
+  }
+}": "Lithium",
         "description": "No-compromises game logic/server optimization mod"
       }
     }
