@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packwizml.cache"
-hash = "f57f70d18ec1aa2256121bc057749469df209b54c1bbbd6b57b162e5b4391a2a"
+hash = "b8a721e39b767c53710d779b66a69359a4d0aa6f38016e46edbdc184e5bdfadd"
 
 [[files]]
 file = "LICENSE"
@@ -14,7 +14,7 @@ hash = "14e029c2a4825671e253723034fd1e8a22180527b5ef615e868682d18992c3cc"
 
 [[files]]
 file = "modlist.md"
-hash = "00762138b65de5ccd52eade5696e7308e0c6071a2f8a14ca35d8059b5c0129bf"
+hash = "5fbe8047fcad8da894bd8a66a3047d6f200444e5cbdef1c436b24bfae8ea8794"
 
 [[files]]
 file = "mods/antighost.pw.toml"
@@ -77,13 +77,18 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
+hash = "3d3c9d0226ba1b2d69e096989644a9b721f8031a3f5ebabca3540102861d23c3"
 metafile = true
 
 [[files]]
@@ -108,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "432ff6dab148ec6b17440c2c83d2f62c1ad5eae3cbc6edc8126787aa5e8c13c9"
 metafile = true
 
 [[files]]
@@ -173,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "1cb952b11f8ba19a7684750c2fb81591e3467fc28e47db58f699e6e47618e7c1"
+hash = "aed75e1420b08394093f029d594ef3e352f3f94789a48dfa549506c1c704a9c5"
 metafile = true
 
 [[files]]
@@ -198,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+hash = "bd5a6a0ddf6b0f26318524ca0bb2d9a6b393e2d19a6c3107a13e390dda3c1cd7"
 metafile = true
 
 [[files]]

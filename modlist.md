@@ -10,6 +10,7 @@
 - [DashLoader](https://modrinth.com/mod/ZfQ3kTvR) - Launch at the speed of light.
 - [Debugify](https://modrinth.com/mod/QwxR6Gcd) - Fixes Minecraft bugs found on the bug tracker
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) - Improve performance when Minecraft is in the background.
+- [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) - Reduce FPS lag with block entities, as well as customize them with resource packs
 - [Entity Texture Features [Fabric]](https://modrinth.com/mod/BVzZfTc1) - Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) - Using async path-tracing to hide Block-/Entities that are not visible
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) - Fabric Language Kotlin
