@@ -2,175 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packwizml.cache"
-hash = "7e46b13f28f8dc8f0018ccb389ce43f20f633f5c921981b3bcca28b4271e6925"
+hash = "f57f70d18ec1aa2256121bc057749469df209b54c1bbbd6b57b162e5b4391a2a"
 
 [[files]]
 file = "LICENSE"
 hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
-
-[[files]]
-file = "Opti Craft-1.0.0/manifest.json"
-hash = "259f7e82dc11860c27692a1b4d9fbab1a752a38275266ac487e6cc68ba811dec"
-
-[[files]]
-file = "Opti Craft-1.0.0/modlist.html"
-hash = "b0c5c57e62f481c186143d92ff588aca11da84c0cd60dcd27a8b98fdc41a9507"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/.packwizml.cache"
-hash = "af30d1061f8f7e1b0c335bc7d4bf752d125c68d113cc5095a290b04da75e5ddb"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/LICENSE"
-hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/README.md"
-hash = "14e029c2a4825671e253723034fd1e8a22180527b5ef615e868682d18992c3cc"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/modlist.md"
-hash = "5fbe8047fcad8da894bd8a66a3047d6f200444e5cbdef1c436b24bfae8ea8794"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/CITResewn-1.1.0+1.19.jar"
-hash = "2aa216610ab5e4a07bd6b9c039f7e7efd2b521bd298399c6ce788d35688c8a48"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/Capes-1.4.1+1.19.jar"
-hash = "374bc67fc9316df555fe36032e27de9f9faa7734a5c26697e95e5f294353e2c9"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/CullLessLeaves-1.0.2.jar"
-hash = "00d7ec4a7068a219a6e6df10a1fe1f546c001f41ece04b9671e6076da2fd2ebe"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/Ksyxis-1.1.jar"
-hash = "aa1849de5e92a52e125d7c6c0b0ed9f2c7473e85b69968f40cfde05ee00f6582"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/Zoomify-1.7.0.jar"
-hash = "8bbd1b69d755a881e0be7a36fd01664b1cbe266d1ff43faf2a25d142f311024c"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/antighost-1.19-fabric0.55.3-1.1.5.jar"
-hash = "00b3870a51a517c2327fdcf4c7809d6ba6d8580fe5e595b930ab3d2152882692"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/cem-0.7.1.jar"
-hash = "89b574b196ff5e87911ca8e53df5624c381f597d1b67a3abd6b32331eafa35e8"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/cloth-config-7.0.72-fabric.jar"
-hash = "ef2e3ffd8ac70b5f0e810ac0ec4060398b1c5018f7fd64c59bbd27abd885da73"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/colormatic-3.1.2+mc.1.19.jar"
-hash = "321c0525db0c818a9f5543bbde19a7c82176a6ae495953e13551430485e80fb3"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/completeconfig-2.0.0.jar"
-hash = "d34a3e167bf7942348d3f8c650fcefead6284878b39277ba43282ef69fa2d566"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/continuity-2.0.0+1.19.jar"
-hash = "b699176e3434b684cf34d7ecb585bd85c4c1b697ebbb7f1fcc254d35f4e4c2e7"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/dashloader-4.0.0+1.19.jar"
-hash = "08d7f6e07c3a75d50ecda2d9ade1c2d9dd6f383403bdceb9c19c07a308d87127"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/debugify-2.0.0-fabric-1.19.jar"
-hash = "b8a1f2c71b1687d509e2a00643c1b1c960ed9764e8411d2d2a97645bcc4a5675"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/dynamic-fps-2.2.0.jar"
-hash = "596c2924bad607f5820dc57f0b04387cbfc12894946970dde1e5050818196f7b"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/entity-texture-features-3.1.1-mc1.19.jar"
-hash = "7ff247124744693d5b969b657b0d720935934f069008a3ceded28422e4d296fa"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/entityculling-fabric-1.5.2-mc1.19.jar"
-hash = "0f2e6b299c422bd68966c2917dc20ebb58d20f001676ad71bc20a424d1290e6f"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/fabric-language-kotlin-1.8.0+kotlin.1.7.0.jar"
-hash = "3e7474a54ae4cbe476e450a867cedbade60f6e2c251f25a53a8b5923a05a91cb"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/fabrishot-1.8.0.jar"
-hash = "c960268e89a652436aafec8619003062b00a5a6eeb7a0ee135e6a735c3841fdc"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/ferritecore-5.0.0-fabric.jar"
-hash = "c30ec2f2ff95ee1a3ef9087db2bca4ffb8316ecb61b14a8bfb7d905e87fe535d"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/indium-1.0.4+mc1.19.jar"
-hash = "cf33476c7a93ecb9252880c25c06f5481f3223e75f1266738799d27d4e2a5dd6"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/iris-mc1.19-1.2.5.jar"
-hash = "da9cef0f6c697be6ede5edd31681d1caf771e3ac9e88d96cfe89573e440da6de"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/krypton-0.2.0.jar"
-hash = "2d57301028f354cc5fde3ff710613e6b20c10041ccdbbb7a45182cf116562ab4"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/lambdynamiclights-2.1.2+1.19.jar"
-hash = "153699d6e60673e203da65c10c0f40e9502e0cc775d35f594a4acab4afd77b26"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/lazydfu-0.1.3.jar"
-hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/lithium-fabric-mc1.19-0.8.0.jar"
-hash = "3236bad542c3467c87cc19d89df8013bd78c352e59c66ad4f7262fd152e4ecab"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/memoryleakfix-1.19-0.4.1.jar"
-hash = "a6449424db8bde5b3384f9c54a349c215a40976798fcbc1a87bac8e8a5190619"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/modmenu-4.0.0.jar"
-hash = "d0c1ae78e727d69eaf420839605d44c025e91b438bbe480c8b576842cc69d1de"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/notenoughcrashes-4.1.6+1.19-fabric.jar"
-hash = "e7a6c520ad8090096b5270fc9bc307678194b392ab1e41a9c4c4c4a1102ee81b"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/optigui-1.1.0.jar"
-hash = "a6c1b1056ee3f7b76d1dde2c4f6c2c8bcbdd178df4a9226ac9595ec9d4c5d859"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/puzzle-1.3.3.jar"
-hash = "8bd4155a56321cab200e12ea029a1b46b034153884be1ff3d601ddebeafd5c07"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/qfapi-2.0.0-alpha.3_qsl-2.0.0-beta.2_fapi-0.55.3_mc-1.19.jar"
-hash = "7e613c0e9dc58734d380c061767ba2a08443a86566e472ef1ef4fb6ffee789ab"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/reeses_sodium_options-1.4.3+mc1.19-build.43.jar"
-hash = "edfbedcfc644e84feea39398837cb83e5c466b71fd88ce755f82f55bda554e24"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/sodium-extra-0.4.5+mc1.19-build.43.jar"
-hash = "1b8e1d343b894baf1e68e76f5d4e2de91db4401e4bc802e545fc4c1a1f3921f5"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/sodium-fabric-mc1.19-0.4.2+build.16.jar"
-hash = "3bd5e4fc759b8a311dc088502eaeabc49676e4c0b10d380975635c46c71f037d"
-
-[[files]]
-file = "Opti Craft-1.0.0/overrides/mods/starlight-1.1.0+fabric.eb9df34.jar"
-hash = "5092a66957b57699f9327ca95efe5d07d2b35ea1041fe2017f23a36ed1e83933"
 
 [[files]]
 file = "README.md"
@@ -178,7 +14,7 @@ hash = "14e029c2a4825671e253723034fd1e8a22180527b5ef615e868682d18992c3cc"
 
 [[files]]
 file = "modlist.md"
-hash = "5175f8ae95d927ad25b0fa68151e9d9a3b3dd0fdbd6736c376deb71fb29416c5"
+hash = "00762138b65de5ccd52eade5696e7308e0c6071a2f8a14ca35d8059b5c0129bf"
 
 [[files]]
 file = "mods/antighost.pw.toml"
@@ -187,7 +23,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "11500c6d3b6944ed92bc249160dc88cfe7f4dc518190c27ba83bcdf4c130dcdf"
+hash = "188b5b6cf73acf20bbaf80c3bfd9b4ce42c0f873ab7b48fa844aca5758b3e404"
 metafile = true
 
 [[files]]
@@ -232,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "d562db5edffe81d5698a1c8ee6a42c4d014865dad4daf19fd4331b99018a2537"
+hash = "85a407576f55ebbf4c4d6719f9f14b8b4d70ddf2101ea0696bbaccb5a5b2f6cf"
 metafile = true
 
 [[files]]
@@ -247,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7c8734c1b20623d0deaab723a2c872c3b166fe466b43caa43fc7118dfd40d843"
+hash = "d476772028d7d681aadd6a06fb8484cbf8476389267f6fd53293a17af3460bce"
 metafile = true
 
 [[files]]
@@ -272,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "bbbf79e3bc952411d58fb20119792dda0096b42784ff9398c5febd2a137153c4"
+hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
@@ -337,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "aa36de9b60e1befdc7da9436a48f7237478433fbbd877d06a4fc2806c930c203"
+hash = "1cb952b11f8ba19a7684750c2fb81591e3467fc28e47db58f699e6e47618e7c1"
 metafile = true
 
 [[files]]
@@ -362,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
