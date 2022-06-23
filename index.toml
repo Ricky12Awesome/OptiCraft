@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packwizml.cache"
-hash = "b8a721e39b767c53710d779b66a69359a4d0aa6f38016e46edbdc184e5bdfadd"
+hash = "73fe8f970bbf74213b34b45f806312f439403968e99ebb621a38e0f062985052"
 
 [[files]]
 file = "LICENSE"
@@ -10,11 +10,16 @@ hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
 
 [[files]]
 file = "README.md"
-hash = "14e029c2a4825671e253723034fd1e8a22180527b5ef615e868682d18992c3cc"
+hash = "46c490f021a685f07cb51ae3d5f0f75cc8863f993c82b957bc888146f5dd035a"
 
 [[files]]
 file = "modlist.md"
-hash = "5fbe8047fcad8da894bd8a66a3047d6f200444e5cbdef1c436b24bfae8ea8794"
+hash = "eb87630487c73a9ce4d80b49dd1919f6049fb9341be85fcbb102040b23e2ac72"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
+metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
@@ -23,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "188b5b6cf73acf20bbaf80c3bfd9b4ce42c0f873ab7b48fa844aca5758b3e404"
+hash = "39288231de229a526ae51f44ba357a6ac472ba598dd74fea2b0eaaf868714669"
 metafile = true
 
 [[files]]
@@ -68,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "85a407576f55ebbf4c4d6719f9f14b8b4d70ddf2101ea0696bbaccb5a5b2f6cf"
+hash = "004dbebb72fb7b4afaa12797a18c0871b78da1cc930ee0a9e65a485a99d6232b"
 metafile = true
 
 [[files]]
@@ -78,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
+hash = "1629a5389009c1fb824d16f317e84980b536193fbd193fc0efe1ef9686531844"
 metafile = true
 
 [[files]]
@@ -208,5 +213,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
+hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
